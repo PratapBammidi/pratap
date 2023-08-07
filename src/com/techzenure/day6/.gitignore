@@ -1,0 +1,9 @@
+java_axis/Eclipse> ls -lart
+total 48
+drwxr-xr-x 2 imgdev development 4096 2013-09-09 04:53 RemoteSystemsTempFiles
+drwxr-xr-x 4 imgdev development 4096 2013-09-09 04:55 Servers
+drwxr-xr-x 4 imgdev development 4096 2013-09-09 04:58 .metadata
+drwxr-xr-x 6 imgdev development 4096 2013-09-09 05:06 Axis2ClientDimeServer
+drwxr-xr-x 5 imgdev development 4096 2013-09-10 08:30 ..
+-rw-r--r-- 1 imgdev development  307 2013-09-10 08:31 .gitignore
+drwxr-xr-x 6 imgdev development 4096 2013-09-10 08:31 .
